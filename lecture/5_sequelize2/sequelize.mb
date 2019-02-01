@@ -1,4 +1,0 @@
-//how to undo
-
-sequelize db:migrate undo
-required --> inner join
